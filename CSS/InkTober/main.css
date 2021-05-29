@@ -1,0 +1,39 @@
+body{
+  background-color: #d0d0d0;
+}
+
+a{
+  text-decoration:none;
+  color: black;
+}
+
+a:hover{
+  color: black;
+}
+
+header{
+  background-color: #7a7878;
+  text-align: center;
+  font-size: 2rem;
+  padding : 10px;
+  margin-bottom: 20px;
+}
+
+footer{
+  display: block;
+  position: absolute;
+  bottom: 0;
+}
+
+.margin-lr{
+  margin: 0 4% 0 4%;
+}
+
+#Accueil{
+  margin-top: 22px;
+}
+
+.production > h2{
+  margin: 20px 0 10px 0;
+  text-align: center;
+}
